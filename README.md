@@ -1,4 +1,4 @@
-## Github-Bug-Prediction
+## Github-Bugs-Prediction
 ### Introduction
 Given Title  and Body  of a commit we have to Label-`Bug`,`Feature`,`Question`
 ### Data Source
